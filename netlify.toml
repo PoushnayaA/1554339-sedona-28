@@ -1,0 +1,4 @@
+  command = "npm install && npm run build" # команда для сборки
+  publish = "build/" # папка с собранными файлами
+
+  node_version = "12" # требуемая версия Node.js
