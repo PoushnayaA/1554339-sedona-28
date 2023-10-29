@@ -1,3 +1,5 @@
+Ссылка на опубликованную версию https://sedona-proj.netlify.app
+
 # Личный проект «Седона» 
 
 * Студент: [Анастасия Пушная](https://up.htmlacademy.ru/adaptive/28/user/1554339).
